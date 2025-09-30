@@ -5,8 +5,9 @@ int main(){
 
     printf("Diketahui: ");
     printf("Panjang sisi segitiga berturut-turut adalah %d, %d, %d\n", a, b, c);
-    printf("Keliling Tanah Pak Dengklek adalah %d", a+b+c);
+    printf("Keliling Tanah Pak Dengklek adalah %d", k);
     printf("Harga tanah Per Meter adalah %d", h);
     printf("Biaya yang diperlukan Pak Dengklek adalah: Rp %d", h*k);
     return 0;
+
 }
